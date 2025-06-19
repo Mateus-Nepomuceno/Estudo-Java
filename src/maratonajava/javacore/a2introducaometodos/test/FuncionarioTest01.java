@@ -16,9 +16,9 @@ public class FuncionarioTest01 {
          */
 
         Funcionario funcionario = new Funcionario();
-        funcionario.nome = "Mateus Nepomuceno";
-        funcionario.idade = 21;
-        funcionario.salarios = new double[]{1512,900,600};
+        funcionario.setNome("Mateus Nepomuceno");
+        funcionario.setIdade(21);
+        funcionario.setSalarios(new double[]{1512,900,600});
 
         funcionario.imprimirDados();
     }

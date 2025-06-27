@@ -19,11 +19,3 @@ Trilha de aprendizado por meio do curso **Maratona Java** do **DevDojo**.
 4. Sobrecarga de Métodos :white_check_mark: 
 5. Construtores :white_check_mark:
 6. Blocos de Inicialização :white_check_mark:
-7. Modificador Estático
-8. Associação
-9. Herança
-
-## Exercícios
-1. Classes e Métodos
-
-   - Criar uma calculadora que verifica se um número é primo ou não. Retorno: true se for primo, false caso contrário.

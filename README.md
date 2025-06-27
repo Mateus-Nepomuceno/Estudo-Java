@@ -2,6 +2,8 @@
 
 Trilha de aprendizado por meio do curso **Maratona Java** do **DevDojo**.
 
+Status: **Em Andamento.**
+
 ## Introdução
 
 1. Tipos Primitivos :white_check_mark:

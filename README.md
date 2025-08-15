@@ -21,3 +21,11 @@ Status: **Em Andamento.**
 4. Sobrecarga de Métodos :white_check_mark: 
 5. Construtores :white_check_mark:
 6. Blocos de Inicialização :white_check_mark:
+7. Modificador Estático :white_check_mark:
+8. Associação :white_check_mark:
+9. Herança :white_check_mark:
+10. Sobrescrita :white_check_mark:
+11. Modificador Final :white_check_mark:
+12. Enum :white_check_mark:
+13. Classes Abstratas :white_check_mark:
+14. Interfaces :white_check_mark:

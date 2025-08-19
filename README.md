@@ -29,3 +29,6 @@ Status: **Em Andamento.**
 12. Enum :white_check_mark:
 13. Classes Abstratas :white_check_mark:
 14. Interfaces :white_check_mark:
+15. Polimorfismo :white_check_mark:
+16. Exception :white_check_mark:
+17. Wrapper :white_check_mark:

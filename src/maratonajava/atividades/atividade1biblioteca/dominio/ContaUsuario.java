@@ -1,4 +1,4 @@
-package atividades.atividade1biblioteca.dominio;
+package maratonajava.atividades.atividade1biblioteca.dominio;
 
 public class ContaUsuario {
     private int idUsuario;

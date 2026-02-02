@@ -1,4 +1,4 @@
-package atividades.atividade2loja.dominio;
+package maratonajava.atividades.atividade2loja.dominio;
 
 public class Produto {
         private Integer codigo;

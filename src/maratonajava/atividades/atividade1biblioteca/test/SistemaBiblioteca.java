@@ -1,6 +1,6 @@
-package atividades.atividade1biblioteca.test;
+package maratonajava.atividades.atividade1biblioteca.test;
 
-import atividades.atividade1biblioteca.dominio.ContaUsuario;
+import maratonajava.atividades.atividade1biblioteca.dominio.ContaUsuario;
 import java.util.Scanner;
 
 public class SistemaBiblioteca {

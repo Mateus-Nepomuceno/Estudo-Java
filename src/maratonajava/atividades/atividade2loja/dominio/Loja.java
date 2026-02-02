@@ -1,4 +1,4 @@
-package atividades.atividade2loja.dominio;
+package maratonajava.atividades.atividade2loja.dominio;
 
 import java.util.ArrayList;
 import java.util.List;

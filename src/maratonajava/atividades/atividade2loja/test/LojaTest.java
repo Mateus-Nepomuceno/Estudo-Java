@@ -1,7 +1,7 @@
-package atividades.atividade2loja.test;
+package maratonajava.atividades.atividade2loja.test;
 
-import atividades.atividade2loja.dominio.Loja;
-import atividades.atividade2loja.dominio.Produto;
+import maratonajava.atividades.atividade2loja.dominio.Loja;
+import maratonajava.atividades.atividade2loja.dominio.Produto;
 
 import java.util.Scanner;
 
